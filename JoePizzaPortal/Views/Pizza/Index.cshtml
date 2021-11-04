@@ -1,0 +1,33 @@
+﻿@model IEnumerable<JoePizzaPortal.Models.Pizza>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 align="center">Exotic Pizzas in our Kitchen</h1>
+<div class="container mx-auto align-content-center justify-content-center">
+    @foreach (var item in Model)
+    {
+        <div class="row justify-content-center">
+            <form method="post" asp-action="Buy" asp-controller="Cart" class="justify-content-center">
+                <div class="card w-50 mt-4">
+                    <img src="@item.PizzaImageLink" class="card-img-top" alt="@item.PizzaName" />
+                    <div class="card-body">
+                        <h5 class="card-title">@item.PizzaName</h5>
+                        <input type="text" value="@item.PizzaName" name="PizzaName" hidden />
+                        <span class="badge badge-pill badge-success mr-1">VEG</span>
+                        <span class="badge badge-pill badge-danger">NON VEG</span>
+                        <span class="badge badge-pill badge-info">MEDIUM</span>
+                        <p class="card-text mb-2">@item.PizzaDescription</p>
+                        <label for="customRange2" class="form-label">Choose Quantity : </label>
+                        <input type="number" class="form-range" min="1" max="@item.Quantity"  value="0" name="Quantity" id="@item.PizzaId-Quantity" required><br />
+                        <label for="customRange" class="form-label">Choose Type : </label>
+                        <input type="radio" value="Veg" id="Type-@item.PizzaId-Veg" name="Type" />Veg
+                        <input type="radio" value="NonVeg" id="Type-@item.PizzaId-NonVeg" name="Type" />Non Veg<br />
+                    </div>
+                    <input type="submit" value="Proceed" name="Proceed-@item.PizzaId"/>
+                </div>
+            </form>
+        </div>
+    }
+</div>

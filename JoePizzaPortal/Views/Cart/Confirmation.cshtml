@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewData["Title"] = "Confirmation";
+}
+
+<h1>Confirmation</h1>
+
+<div class="justify-content-center">
+    <div class="card">
+        <div class="card-header text-success">
+            Your Order is Successfully Placed!
+        </div>
+        <div class="card-body">
+            <p>Here is a brief Summary of your order transaction.</p>
+            <table class="table table-borderless">
+                <tr>
+                    <th>Order Transaction ID</th>
+                    <td>@ViewBag.orderId</td>
+                </tr>
+                <tr>
+                    <th>Pizza Ordered</th>
+                    <td>@ViewBag.pizza</td>
+                </tr>
+                <tr>
+                    <th>Type Of Pizza</th>
+                    <td>@ViewBag.type</td>
+                </tr>
+                <tr>
+                    <th>Number Of Pizzas added</th>
+                    <td>@ViewBag.quantity</td>
+                </tr>
+                <tr>
+                    <th>Shipping Address</th>
+                    <td>@ViewBag.address</td>
+                </tr>
+                <tr>
+                    <th>Total Amount Paid</th>
+                    <td>@ViewBag.total</td>
+                </tr>
+                <tr>
+                    <th>Ordered on</th>
+                    <td>@ViewBag.time</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</div>
+<p align="center"><a asp-action="Index" asp-controller="Home" class="btn btn-primary">Go Back to Home</a></p>

@@ -1,0 +1,435 @@
+﻿2021-11-03T16:01:21.5674294+05:30;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-11-03T16:01:21.5676898+05:30;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.7 in Framework net50 in x64 mode execution started
+2021-11-03T16:01:21.5676930+05:30;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-11-03T16:01:21.5720433+05:30;VSTestExecutionThread;Info;Current UserName: '11035908', MachineName: 'H5CG1220SMG'
+2021-11-03T16:01:21.6039704+05:30;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\JoePizzaPortalSpecFlow.dll
+2021-11-03T16:01:21.6042387+05:30;VSTestExecutionThread;Info;Output folder configured to "C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\TestResults" (default)
+2021-11-03T16:01:21.6043267+05:30;VSTestExecutionThread;Info;Profile: 
+2021-11-03T16:01:21.6636950+05:30;VSTestExecutionThread;Info;Log file path: C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\TestResults\Unnamed project__2021-11-03T160121.log
+2021-11-03T16:01:21.6685522+05:30;Thread#12;Info;Checking activation
+2021-11-03T16:01:21.7446086+05:30;Thread#12;Info;Activated.
+2021-11-03T16:01:21.7448158+05:30;Thread#12;Info;Activation check completed
+2021-11-03T16:01:21.7448718+05:30;Thread#12;Info;Starting test run
+2021-11-03T16:01:21.8268143+05:30;Thread#12;Info;Discovering target: Default
+2021-11-03T16:01:21.8270791+05:30;Thread#12;Info;Discovering tests from assembly: C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\JoePizzaPortalSpecFlow.dll
+2021-11-03T16:01:21.8942065+05:30;Thread#12;Info;Discovered tests from assembly: C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\JoePizzaPortalSpecFlow.dll
+2021-11-03T16:01:21.8951438+05:30:Test Suite Dump
+2021-11-03T16:01:21.8966862+05:30:#0: Unnamed project/ - 
+2021-11-03T16:01:21.8967006+05:30:#1: Default - 
+2021-11-03T16:01:21.8967020+05:30:#2: JoePizzaPortalSpecFlow - 
+2021-11-03T16:01:21.8967031+05:30:#7: Confirmfeature - 
+2021-11-03T16:01:21.8979034+05:30:#8: Get Order Details - TestAssembly:JoePizzaPortalSpecFlow/Feature:Confirmfeature/Scenario:Get+Order+Details
+2021-11-03T16:01:21.8979241+05:30:End: Test Suite Dump
+2021-11-03T16:01:21.9108467+05:30:Thread#0:Scheduler: get next test for thread 0
+2021-11-03T16:01:21.9121487+05:30:Thread#:Scheduler: testitem #8 from normal test queue 
+2021-11-03T16:01:21.9121797+05:30:Thread#0:Scheduler: considering testitem #8 for thread 0
+2021-11-03T16:01:21.9142709+05:30:Thread#0:TestItem#8:testItemMatchesCurrentTestThread:UnSpecific
+2021-11-03T16:01:21.9142778+05:30:Thread#0:TestItem#8:runsOnOneOtherThreadSpecific:False
+2021-11-03T16:01:21.9142788+05:30:Thread#0:TestItem#8:runsOnOneOtherThreadUnspecific:False
+2021-11-03T16:01:21.9142801+05:30:Thread#0:Scheduler: using testitem #8 for thread 0
+2021-11-03T16:01:21.9146310+05:30:Thread#0:Scheduler: Test #8 is scheduled for thread
+2021-11-03T16:01:21.9152744+05:30:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-11-03T16:01:21.9180159+05:30:Thread #0: creating new test thread executor for JoePizzaPortalSpecFlow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-11-03T16:01:21.9208077+05:30:Thread #0: Creating test assembly executor for execution model OutProc
+2021-11-03T16:01:21.9209535+05:30:Thread #0: Creating test assembly executor for execution model OutProc
+2021-11-03T16:01:21.9227434+05:30:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2021-11-03T16:01:21.9242046+05:30:starting Out Of Process Executor
+2021-11-03T16:01:21.9261258+05:30:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-11-03T16:01:21.9281728+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2021-11-03T16:01:21.9281805+05:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2021-11-03T16:01:21.9290489+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0'
+2021-11-03T16:01:21.9293059+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\Microsoft.VisualStudio.Validation.dll'
+2021-11-03T16:01:21.9293526+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\Microsoft.VisualStudio.Validation.exe'
+2021-11-03T16:01:21.9293807+05:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0'
+2021-11-03T16:01:21.9295600+05:30:TargetFramework: .NETCoreApp,Version=v5.0
+2021-11-03T16:01:21.9299857+05:30:Tfm: netcoreapp5.0
+2021-11-03T16:01:21.9299929+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-11-03T16:01:21.9299961+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.VisualStudio.Validation.dll'
+2021-11-03T16:01:21.9302567+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.VisualStudio.Validation.exe'
+2021-11-03T16:01:21.9302769+05:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-11-03T16:01:21.9400143+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9'
+2021-11-03T16:01:21.9400278+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.VisualStudio.Validation.dll'
+2021-11-03T16:01:21.9400624+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.VisualStudio.Validation.exe'
+2021-11-03T16:01:21.9400784+05:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9'
+2021-11-03T16:01:21.9401869+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9'
+2021-11-03T16:01:21.9401887+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\Microsoft.VisualStudio.Validation.dll'
+2021-11-03T16:01:21.9402055+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\Microsoft.VisualStudio.Validation.exe'
+2021-11-03T16:01:21.9402156+05:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9'
+2021-11-03T16:01:21.9402805+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.9'
+2021-11-03T16:01:21.9402818+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.9\Microsoft.VisualStudio.Validation.dll'
+2021-11-03T16:01:21.9402956+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.9\Microsoft.VisualStudio.Validation.exe'
+2021-11-03T16:01:21.9403066+05:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.9'
+2021-11-03T16:01:21.9442263+05:30:Starting callback TCP Rpc server
+2021-11-03T16:01:21.9570594+05:30:Asynchronously starting background TCP Rpc Server on port 32768
+2021-11-03T16:01:21.9570992+05:30:Started callback TCP Rpc server on port 32768
+2021-11-03T16:01:21.9571007+05:30:Starting logger TCP Rpc server
+2021-11-03T16:01:21.9594178+05:30:Asynchronously starting background TCP Rpc Server on port 32769
+2021-11-03T16:01:21.9595033+05:30:Started logger TCP Rpc server on port 32769
+2021-11-03T16:01:22.0228899+05:30:Executing test executor at 'dotnet' 'exec "C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\net5.0\TechTalk.SpecRun.Framework.Executor.anycpu.net5_0.dll" --remoteRunnerPid 3444 --uniqueId "2021-11-03T160121" --outputFolder "C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\TestResults" --callbackPort 32768 --loggerPort 32769' in 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0'
+2021-11-03T16:01:22.3189197+05:30:Executor with PID 24616 has been started successfully.
+2021-11-03T16:01:22.3218328+05:30:Out of Process Executor 24616 started
+2021-11-03T16:01:22.3218442+05:30:Waiting for endpoint
+2021-11-03T16:01:22.6586541+05:30:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-11-03T16:01:22.6586732+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2021-11-03T16:01:22.6586801+05:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2021-11-03T16:01:22.6586835+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0'
+2021-11-03T16:01:22.6586846+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\Microsoft.VisualStudio.Threading.dll'
+2021-11-03T16:01:22.6587094+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\Microsoft.VisualStudio.Threading.exe'
+2021-11-03T16:01:22.6587224+05:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0'
+2021-11-03T16:01:22.6587246+05:30:TargetFramework: .NETCoreApp,Version=v5.0
+2021-11-03T16:01:22.6587442+05:30:Tfm: netcoreapp5.0
+2021-11-03T16:01:22.6587532+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-11-03T16:01:22.6587540+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.VisualStudio.Threading.dll'
+2021-11-03T16:01:22.6588258+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.VisualStudio.Threading.exe'
+2021-11-03T16:01:22.6588451+05:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-11-03T16:01:22.6595044+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9'
+2021-11-03T16:01:22.6595175+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.VisualStudio.Threading.dll'
+2021-11-03T16:01:22.6595443+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.VisualStudio.Threading.exe'
+2021-11-03T16:01:22.6595713+05:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9'
+2021-11-03T16:01:22.6596538+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9'
+2021-11-03T16:01:22.6596569+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\Microsoft.VisualStudio.Threading.dll'
+2021-11-03T16:01:22.6596787+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\Microsoft.VisualStudio.Threading.exe'
+2021-11-03T16:01:22.6596936+05:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9'
+2021-11-03T16:01:22.6597799+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.9'
+2021-11-03T16:01:22.6597899+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.9\Microsoft.VisualStudio.Threading.dll'
+2021-11-03T16:01:22.6598090+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.9\Microsoft.VisualStudio.Threading.exe'
+2021-11-03T16:01:22.6598276+05:30:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.9'
+2021-11-03T16:01:22.8510503+05:30:Remote executor port received: 32770
+2021-11-03T16:01:22.8512810+05:30:Creating executor TCP client on port 32770
+2021-11-03T16:01:22.8516221+05:30:Created executor TCP client on port 32770
+2021-11-03T16:01:22.8516298+05:30:Connecting to remote executor TCP server
+2021-11-03T16:01:22.8529519+05:30:Connected remote executor TCP server
+2021-11-03T16:01:22.8530995+05:30:trying to connect to Out of Process Executor the 1 attempt
+2021-11-03T16:01:22.8531078+05:30:Connection to Out of Process Executor established in the 1 attempt
+2021-11-03T16:01:22.9698478+05:30:2021-11-03T16:01:22.9682355+05:30:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\JoePizzaPortalSpecFlow.dll on test thread #0
+2021-11-03T16:01:22.9740941+05:30:Endpoint 24616 started
+2021-11-03T16:01:22.9929942+05:30:2021-11-03T16:01:22.9920507+05:30:OutOfProcessTestAssemblyExecutor: running tests...
+2021-11-03T16:01:23.0792197+05:30:2021-11-03T16:01:23.0784285+05:30:Assembly resolving TechTalk.SpecFlow, Version=3.9.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2021-11-03T16:01:23.0823868+05:30:2021-11-03T16:01:23.0817410+05:30:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2021-11-03T16:01:23.0853410+05:30:2021-11-03T16:01:23.0847670+05:30:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\11035908\.nuget\packages\specflow\3.9.8\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2021-11-03T16:01:23.1920591+05:30:2021-11-03T16:01:23.1912746+05:30:Thread#0:T:-> Loading plugin C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\JoePizzaPortalSpecFlow.dll
+2021-11-03T16:01:23.1936269+05:30:2021-11-03T16:01:23.1931422+05:30:Assembly resolving Microsoft.Extensions.DependencyModel, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-11-03T16:01:23.1947878+05:30:2021-11-03T16:01:23.1942184+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyModel' from .deps.json file
+2021-11-03T16:01:23.1960335+05:30:2021-11-03T16:01:23.1954280+05:30:[AssemblyCache] Resolved 'Microsoft.Extensions.DependencyModel' to 'C:\Users\11035908\.nuget\packages\microsoft.extensions.dependencymodel\1.0.3\lib\netstandard1.6\Microsoft.Extensions.DependencyModel.dll'
+2021-11-03T16:01:23.2334510+05:30:2021-11-03T16:01:23.2319192+05:30:Assembly resolving Microsoft.DotNet.PlatformAbstractions, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-11-03T16:01:23.2345251+05:30:2021-11-03T16:01:23.2339161+05:30:[AssemblyCache] Trying to resolve 'Microsoft.DotNet.PlatformAbstractions' from .deps.json file
+2021-11-03T16:01:23.2363510+05:30:2021-11-03T16:01:23.2355490+05:30:[AssemblyCache] Resolved 'Microsoft.DotNet.PlatformAbstractions' to 'C:\Users\11035908\.nuget\packages\microsoft.dotnet.platformabstractions\1.0.3\lib\netstandard1.3\Microsoft.DotNet.PlatformAbstractions.dll'
+2021-11-03T16:01:23.2427637+05:30:2021-11-03T16:01:23.2419064+05:30:Thread#0:T:-> Missing [assembly:RuntimePlugin] attribute in JoePizzaPortalSpecFlow, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2021-11-03T16:01:23.2441341+05:30:2021-11-03T16:01:23.2433957+05:30:Thread#0:T:-> Loading plugin C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\LivingDoc.SpecFlowPlugin.dll
+2021-11-03T16:01:23.2464421+05:30:2021-11-03T16:01:23.2458144+05:30:Assembly resolving LivingDoc.Dtos, Version=3.9.0.0, Culture=neutral, PublicKeyToken=null
+2021-11-03T16:01:23.2474076+05:30:2021-11-03T16:01:23.2467838+05:30:[AssemblyCache] Trying to resolve 'LivingDoc.Dtos' from .deps.json file
+2021-11-03T16:01:23.2487835+05:30:2021-11-03T16:01:23.2481243+05:30:[AssemblyCache] Resolved 'LivingDoc.Dtos' to 'C:\Users\11035908\.nuget\packages\specflow.plus.livingdocplugin\3.9.5\lib\netstandard2.0\LivingDoc.Dtos.dll'
+2021-11-03T16:01:23.2530343+05:30:2021-11-03T16:01:23.2518102+05:30:Thread#0:T:-> Loading plugin C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-11-03T16:01:23.2632946+05:30:2021-11-03T16:01:23.2621796+05:30:Thread#0:T:-> Using default config
+2021-11-03T16:01:23.2726928+05:30:2021-11-03T16:01:23.2718503+05:30:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2021-11-03T16:01:23.2740440+05:30:2021-11-03T16:01:23.2734156+05:30:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2021-11-03T16:01:23.2752751+05:30:2021-11-03T16:01:23.2747767+05:30:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\11035908\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2021-11-03T16:01:23.2770904+05:30:2021-11-03T16:01:23.2764850+05:30:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2021-11-03T16:01:23.2788387+05:30:2021-11-03T16:01:23.2782989+05:30:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2021-11-03T16:01:23.2804713+05:30:2021-11-03T16:01:23.2797789+05:30:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\11035908\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2021-11-03T16:01:23.2877394+05:30:2021-11-03T16:01:23.2867617+05:30:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-11-03T16:01:23.2887710+05:30:2021-11-03T16:01:23.2881869+05:30:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2021-11-03T16:01:23.2900110+05:30:2021-11-03T16:01:23.2895240+05:30:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\11035908\.nuget\packages\microsoft.testplatform.objectmodel\16.5.0\lib\netstandard2.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2021-11-03T16:01:23.3179998+05:30:2021-11-03T16:01:23.3165199+05:30:Assembly resolving SpecFlow.Internal.Json, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2021-11-03T16:01:23.3190596+05:30:2021-11-03T16:01:23.3185078+05:30:[AssemblyCache] Trying to resolve 'SpecFlow.Internal.Json' from .deps.json file
+2021-11-03T16:01:23.3200361+05:30:2021-11-03T16:01:23.3196216+05:30:[AssemblyCache] Resolved 'SpecFlow.Internal.Json' to 'C:\Users\11035908\.nuget\packages\specflow.internal.json\1.0.8\lib\netstandard2.0\SpecFlow.Internal.Json.dll'
+2021-11-03T16:01:23.4142824+05:30:Thread#0: Test #8/0 is started on thread #0
+2021-11-03T16:01:23.4289458+05:30:2021-11-03T16:01:23.4282247+05:30:Thread#0:B:Given the order id is 19
+2021-11-03T16:01:23.4429636+05:30:2021-11-03T16:01:23.4422945+05:30:Assembly resolving JoePizzaPortal, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2021-11-03T16:01:23.4439106+05:30:2021-11-03T16:01:23.4434394+05:30:[AssemblyCache] Trying to resolve 'JoePizzaPortal' from .deps.json file
+2021-11-03T16:01:23.4456213+05:30:2021-11-03T16:01:23.4451260+05:30:[DependencyContextAssemblyCache.ResolveManagedAssembly] Resolving 'JoePizzaPortal', found in dependency map, but unable to resolve a path in ['JoePizzaPortal.dll']
+2021-11-03T16:01:23.4467102+05:30:2021-11-03T16:01:23.4462266+05:30:[AssemblyCache] Could not resolve 'JoePizzaPortal' from .deps.json
+2021-11-03T16:01:23.4488364+05:30:2021-11-03T16:01:23.4482389+05:30:[AssemblyCache] Trying to resolve 'JoePizzaPortal' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0'
+2021-11-03T16:01:23.4558557+05:30:2021-11-03T16:01:23.4550821+05:30:[AssemblyCache] Trying to resolve 'JoePizzaPortal' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\JoePizzaPortal.dll'
+2021-11-03T16:01:23.4571657+05:30:2021-11-03T16:01:23.4567220+05:30:[AssemblyCache] Found file 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\JoePizzaPortal.dll' for assembly 'JoePizzaPortal'
+2021-11-03T16:01:23.4592412+05:30:2021-11-03T16:01:23.4586662+05:30:[AssemblyCache] Resolved 'JoePizzaPortal' to C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\JoePizzaPortal.dll
+2021-11-03T16:01:23.4608763+05:30:2021-11-03T16:01:23.4598372+05:30:Assembly resolving Microsoft.EntityFrameworkCore, Version=5.0.11.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-11-03T16:01:23.4624804+05:30:2021-11-03T16:01:23.4616943+05:30:[AssemblyCache] Trying to resolve 'Microsoft.EntityFrameworkCore' from .deps.json file
+2021-11-03T16:01:23.4648019+05:30:2021-11-03T16:01:23.4635866+05:30:[AssemblyCache] Resolved 'Microsoft.EntityFrameworkCore' to 'C:\Users\11035908\.nuget\packages\microsoft.entityframeworkcore\5.0.11\lib\netstandard2.1\Microsoft.EntityFrameworkCore.dll'
+2021-11-03T16:01:23.4701751+05:30:2021-11-03T16:01:23.4693131+05:30:Assembly resolving Microsoft.Extensions.DependencyInjection.Abstractions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-11-03T16:01:23.4713451+05:30:2021-11-03T16:01:23.4708343+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyInjection.Abstractions' from .deps.json file
+2021-11-03T16:01:23.4726894+05:30:2021-11-03T16:01:23.4720579+05:30:[AssemblyCache] Could not resolve 'Microsoft.Extensions.DependencyInjection.Abstractions' from .deps.json
+2021-11-03T16:01:23.4737224+05:30:2021-11-03T16:01:23.4732568+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyInjection.Abstractions' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0'
+2021-11-03T16:01:23.4751028+05:30:2021-11-03T16:01:23.4743091+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyInjection.Abstractions' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll'
+2021-11-03T16:01:23.4764699+05:30:2021-11-03T16:01:23.4758831+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyInjection.Abstractions' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.exe'
+2021-11-03T16:01:23.4777228+05:30:2021-11-03T16:01:23.4772229+05:30:[AssemblyCache] Could not resolve 'Microsoft.Extensions.DependencyInjection.Abstractions' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0'
+2021-11-03T16:01:23.4794339+05:30:2021-11-03T16:01:23.4788300+05:30:TargetFramework: .NETCoreApp,Version=v5.0
+2021-11-03T16:01:23.4813488+05:30:2021-11-03T16:01:23.4810839+05:30:Tfm: netcoreapp5.0
+2021-11-03T16:01:23.4824757+05:30:2021-11-03T16:01:23.4819157+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyInjection.Abstractions' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-11-03T16:01:23.4837036+05:30:2021-11-03T16:01:23.4830146+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyInjection.Abstractions' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll'
+2021-11-03T16:01:23.4860521+05:30:2021-11-03T16:01:23.4851268+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyInjection.Abstractions' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.Extensions.DependencyInjection.Abstractions.exe'
+2021-11-03T16:01:23.4871293+05:30:2021-11-03T16:01:23.4865750+05:30:[AssemblyCache] Could not resolve 'Microsoft.Extensions.DependencyInjection.Abstractions' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-11-03T16:01:23.4888541+05:30:2021-11-03T16:01:23.4882007+05:30:TargetFramework: .NETCoreApp,Version=v5.0
+2021-11-03T16:01:23.4903606+05:30:2021-11-03T16:01:23.4897726+05:30:Tfm: netcoreapp5.0
+2021-11-03T16:01:23.4914471+05:30:2021-11-03T16:01:23.4908456+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyInjection.Abstractions' in folder 'C:\Users\11035908\.nuget\packages\Microsoft.Extensions.DependencyInjection.Abstractions\5.0.0\lib\netcoreapp5.0'
+2021-11-03T16:01:23.4927401+05:30:2021-11-03T16:01:23.4920371+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyInjection.Abstractions' to 'C:\Users\11035908\.nuget\packages\Microsoft.Extensions.DependencyInjection.Abstractions\5.0.0\lib\netcoreapp5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll'
+2021-11-03T16:01:23.4943603+05:30:2021-11-03T16:01:23.4935140+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyInjection.Abstractions' to 'C:\Users\11035908\.nuget\packages\Microsoft.Extensions.DependencyInjection.Abstractions\5.0.0\lib\netcoreapp5.0\Microsoft.Extensions.DependencyInjection.Abstractions.exe'
+2021-11-03T16:01:23.4959468+05:30:2021-11-03T16:01:23.4951818+05:30:[AssemblyCache] Could not resolve 'Microsoft.Extensions.DependencyInjection.Abstractions' in folder 'C:\Users\11035908\.nuget\packages\Microsoft.Extensions.DependencyInjection.Abstractions\5.0.0\lib\netcoreapp5.0'
+2021-11-03T16:01:23.5050864+05:30:2021-11-03T16:01:23.5039442+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyInjection.Abstractions' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9'
+2021-11-03T16:01:23.5064457+05:30:2021-11-03T16:01:23.5059580+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyInjection.Abstractions' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.DependencyInjection.Abstractions.dll'
+2021-11-03T16:01:23.5079160+05:30:2021-11-03T16:01:23.5071857+05:30:[AssemblyCache] Found file 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.DependencyInjection.Abstractions.dll' for assembly 'Microsoft.Extensions.DependencyInjection.Abstractions'
+2021-11-03T16:01:23.5103260+05:30:2021-11-03T16:01:23.5096661+05:30:[AssemblyCache] Resolved 'Microsoft.Extensions.DependencyInjection.Abstractions' to C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+2021-11-03T16:01:23.5201869+05:30:2021-11-03T16:01:23.5189763+05:30:Assembly resolving Microsoft.Extensions.DependencyInjection, Version=5.0.0.1, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-11-03T16:01:23.5214381+05:30:2021-11-03T16:01:23.5210003+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyInjection' from .deps.json file
+2021-11-03T16:01:23.5227435+05:30:2021-11-03T16:01:23.5221544+05:30:[AssemblyCache] Resolved 'Microsoft.Extensions.DependencyInjection' to 'C:\Users\11035908\.nuget\packages\microsoft.extensions.dependencyinjection\5.0.2\lib\net5.0\Microsoft.Extensions.DependencyInjection.dll'
+2021-11-03T16:01:23.5253446+05:30:2021-11-03T16:01:23.5247527+05:30:Assembly resolving Microsoft.Extensions.Logging.Abstractions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-11-03T16:01:23.5265665+05:30:2021-11-03T16:01:23.5258864+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Logging.Abstractions' from .deps.json file
+2021-11-03T16:01:23.5275256+05:30:2021-11-03T16:01:23.5270833+05:30:[AssemblyCache] Could not resolve 'Microsoft.Extensions.Logging.Abstractions' from .deps.json
+2021-11-03T16:01:23.5286494+05:30:2021-11-03T16:01:23.5280415+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Logging.Abstractions' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0'
+2021-11-03T16:01:23.5296895+05:30:2021-11-03T16:01:23.5291367+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Logging.Abstractions' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.dll'
+2021-11-03T16:01:23.5308094+05:30:2021-11-03T16:01:23.5303018+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Logging.Abstractions' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\Microsoft.Extensions.Logging.Abstractions.exe'
+2021-11-03T16:01:23.5316761+05:30:2021-11-03T16:01:23.5311155+05:30:[AssemblyCache] Could not resolve 'Microsoft.Extensions.Logging.Abstractions' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0'
+2021-11-03T16:01:23.5327259+05:30:2021-11-03T16:01:23.5319812+05:30:TargetFramework: .NETCoreApp,Version=v5.0
+2021-11-03T16:01:23.5335933+05:30:2021-11-03T16:01:23.5330846+05:30:Tfm: netcoreapp5.0
+2021-11-03T16:01:23.5345718+05:30:2021-11-03T16:01:23.5340866+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Logging.Abstractions' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-11-03T16:01:23.5355773+05:30:2021-11-03T16:01:23.5351791+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Logging.Abstractions' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.Extensions.Logging.Abstractions.dll'
+2021-11-03T16:01:23.5366789+05:30:2021-11-03T16:01:23.5359908+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Logging.Abstractions' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.Extensions.Logging.Abstractions.exe'
+2021-11-03T16:01:23.5379519+05:30:2021-11-03T16:01:23.5371820+05:30:[AssemblyCache] Could not resolve 'Microsoft.Extensions.Logging.Abstractions' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-11-03T16:01:23.5391716+05:30:2021-11-03T16:01:23.5387046+05:30:TargetFramework: .NETCoreApp,Version=v5.0
+2021-11-03T16:01:23.5405309+05:30:2021-11-03T16:01:23.5399457+05:30:Tfm: netcoreapp5.0
+2021-11-03T16:01:23.5423261+05:30:2021-11-03T16:01:23.5411796+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Logging.Abstractions' in folder 'C:\Users\11035908\.nuget\packages\Microsoft.Extensions.Logging.Abstractions\5.0.0\lib\netcoreapp5.0'
+2021-11-03T16:01:23.5440786+05:30:2021-11-03T16:01:23.5432354+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Logging.Abstractions' to 'C:\Users\11035908\.nuget\packages\Microsoft.Extensions.Logging.Abstractions\5.0.0\lib\netcoreapp5.0\Microsoft.Extensions.Logging.Abstractions.dll'
+2021-11-03T16:01:23.5457256+05:30:2021-11-03T16:01:23.5448342+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Logging.Abstractions' to 'C:\Users\11035908\.nuget\packages\Microsoft.Extensions.Logging.Abstractions\5.0.0\lib\netcoreapp5.0\Microsoft.Extensions.Logging.Abstractions.exe'
+2021-11-03T16:01:23.5470314+05:30:2021-11-03T16:01:23.5462860+05:30:[AssemblyCache] Could not resolve 'Microsoft.Extensions.Logging.Abstractions' in folder 'C:\Users\11035908\.nuget\packages\Microsoft.Extensions.Logging.Abstractions\5.0.0\lib\netcoreapp5.0'
+2021-11-03T16:01:23.5486909+05:30:2021-11-03T16:01:23.5481607+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Logging.Abstractions' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9'
+2021-11-03T16:01:23.5496307+05:30:2021-11-03T16:01:23.5491947+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Logging.Abstractions' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Logging.Abstractions.dll'
+2021-11-03T16:01:23.5505626+05:30:2021-11-03T16:01:23.5502387+05:30:[AssemblyCache] Found file 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Logging.Abstractions.dll' for assembly 'Microsoft.Extensions.Logging.Abstractions'
+2021-11-03T16:01:23.5534985+05:30:2021-11-03T16:01:23.5527859+05:30:[AssemblyCache] Resolved 'Microsoft.Extensions.Logging.Abstractions' to C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Logging.Abstractions.dll
+2021-11-03T16:01:23.5711144+05:30:2021-11-03T16:01:23.5697999+05:30:Assembly resolving Microsoft.EntityFrameworkCore.Abstractions, Version=5.0.11.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-11-03T16:01:23.5724890+05:30:2021-11-03T16:01:23.5719860+05:30:[AssemblyCache] Trying to resolve 'Microsoft.EntityFrameworkCore.Abstractions' from .deps.json file
+2021-11-03T16:01:23.5734142+05:30:2021-11-03T16:01:23.5727948+05:30:[AssemblyCache] Resolved 'Microsoft.EntityFrameworkCore.Abstractions' to 'C:\Users\11035908\.nuget\packages\microsoft.entityframeworkcore.abstractions\5.0.11\lib\netstandard2.1\Microsoft.EntityFrameworkCore.Abstractions.dll'
+2021-11-03T16:01:23.5760187+05:30:2021-11-03T16:01:23.5752179+05:30:Assembly resolving Microsoft.Extensions.Caching.Abstractions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-11-03T16:01:23.5773850+05:30:2021-11-03T16:01:23.5768676+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Caching.Abstractions' from .deps.json file
+2021-11-03T16:01:23.5782500+05:30:2021-11-03T16:01:23.5777904+05:30:[AssemblyCache] Could not resolve 'Microsoft.Extensions.Caching.Abstractions' from .deps.json
+2021-11-03T16:01:23.5792669+05:30:2021-11-03T16:01:23.5787378+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Caching.Abstractions' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0'
+2021-11-03T16:01:23.5804491+05:30:2021-11-03T16:01:23.5798952+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Caching.Abstractions' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.dll'
+2021-11-03T16:01:23.5816448+05:30:2021-11-03T16:01:23.5809799+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Caching.Abstractions' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\Microsoft.Extensions.Caching.Abstractions.exe'
+2021-11-03T16:01:23.5824460+05:30:2021-11-03T16:01:23.5819383+05:30:[AssemblyCache] Could not resolve 'Microsoft.Extensions.Caching.Abstractions' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0'
+2021-11-03T16:01:23.5831410+05:30:2021-11-03T16:01:23.5827492+05:30:TargetFramework: .NETCoreApp,Version=v5.0
+2021-11-03T16:01:23.5840989+05:30:2021-11-03T16:01:23.5835651+05:30:Tfm: netcoreapp5.0
+2021-11-03T16:01:23.5846363+05:30:2021-11-03T16:01:23.5842685+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Caching.Abstractions' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-11-03T16:01:23.5853898+05:30:2021-11-03T16:01:23.5849988+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Caching.Abstractions' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.Extensions.Caching.Abstractions.dll'
+2021-11-03T16:01:23.5863849+05:30:2021-11-03T16:01:23.5857765+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Caching.Abstractions' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.Extensions.Caching.Abstractions.exe'
+2021-11-03T16:01:23.5872916+05:30:2021-11-03T16:01:23.5867775+05:30:[AssemblyCache] Could not resolve 'Microsoft.Extensions.Caching.Abstractions' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-11-03T16:01:23.5883831+05:30:2021-11-03T16:01:23.5878627+05:30:TargetFramework: .NETCoreApp,Version=v5.0
+2021-11-03T16:01:23.5893620+05:30:2021-11-03T16:01:23.5887180+05:30:Tfm: netcoreapp5.0
+2021-11-03T16:01:23.5899179+05:30:2021-11-03T16:01:23.5897194+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Caching.Abstractions' in folder 'C:\Users\11035908\.nuget\packages\Microsoft.Extensions.Caching.Abstractions\5.0.0\lib\netcoreapp5.0'
+2021-11-03T16:01:23.5906362+05:30:2021-11-03T16:01:23.5902622+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Caching.Abstractions' to 'C:\Users\11035908\.nuget\packages\Microsoft.Extensions.Caching.Abstractions\5.0.0\lib\netcoreapp5.0\Microsoft.Extensions.Caching.Abstractions.dll'
+2021-11-03T16:01:23.5915484+05:30:2021-11-03T16:01:23.5910148+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Caching.Abstractions' to 'C:\Users\11035908\.nuget\packages\Microsoft.Extensions.Caching.Abstractions\5.0.0\lib\netcoreapp5.0\Microsoft.Extensions.Caching.Abstractions.exe'
+2021-11-03T16:01:23.5924197+05:30:2021-11-03T16:01:23.5919085+05:30:[AssemblyCache] Could not resolve 'Microsoft.Extensions.Caching.Abstractions' in folder 'C:\Users\11035908\.nuget\packages\Microsoft.Extensions.Caching.Abstractions\5.0.0\lib\netcoreapp5.0'
+2021-11-03T16:01:23.5938197+05:30:2021-11-03T16:01:23.5932973+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Caching.Abstractions' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9'
+2021-11-03T16:01:23.5943498+05:30:2021-11-03T16:01:23.5940224+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Caching.Abstractions' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Caching.Abstractions.dll'
+2021-11-03T16:01:23.5951798+05:30:2021-11-03T16:01:23.5947619+05:30:[AssemblyCache] Found file 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Caching.Abstractions.dll' for assembly 'Microsoft.Extensions.Caching.Abstractions'
+2021-11-03T16:01:23.5969909+05:30:2021-11-03T16:01:23.5965226+05:30:[AssemblyCache] Resolved 'Microsoft.Extensions.Caching.Abstractions' to C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Caching.Abstractions.dll
+2021-11-03T16:01:23.6590870+05:30:2021-11-03T16:01:23.6583771+05:30:Thread#0:T:done: ConfirmfeatureSteps.GivenTheOrderIdIs(19) (0.2s)
+2021-11-03T16:01:23.6614003+05:30:2021-11-03T16:01:23.6606837+05:30:Thread#0:B:Then order quantity should be 2
+2021-11-03T16:01:23.6632451+05:30:2021-11-03T16:01:23.6627668+05:30:Assembly resolving Microsoft.EntityFrameworkCore, Version=5.0.11.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-11-03T16:01:23.6641613+05:30:2021-11-03T16:01:23.6637179+05:30:Assembly resolving FluentAssertions, Version=5.10.3.0, Culture=neutral, PublicKeyToken=33f2691a05b67b6a
+2021-11-03T16:01:23.6651015+05:30:2021-11-03T16:01:23.6646032+05:30:[AssemblyCache] Trying to resolve 'FluentAssertions' from .deps.json file
+2021-11-03T16:01:23.6661832+05:30:2021-11-03T16:01:23.6655573+05:30:[AssemblyCache] Resolved 'FluentAssertions' to 'C:\Users\11035908\.nuget\packages\fluentassertions\5.10.3\lib\netcoreapp2.1\FluentAssertions.dll'
+2021-11-03T16:01:23.6706121+05:30:2021-11-03T16:01:23.6694753+05:30:Assembly resolving Microsoft.EntityFrameworkCore.SqlServer, Version=5.0.11.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-11-03T16:01:23.6715344+05:30:2021-11-03T16:01:23.6710665+05:30:[AssemblyCache] Trying to resolve 'Microsoft.EntityFrameworkCore.SqlServer' from .deps.json file
+2021-11-03T16:01:23.6724657+05:30:2021-11-03T16:01:23.6720599+05:30:[AssemblyCache] Resolved 'Microsoft.EntityFrameworkCore.SqlServer' to 'C:\Users\11035908\.nuget\packages\microsoft.entityframeworkcore.sqlserver\5.0.11\lib\netstandard2.1\Microsoft.EntityFrameworkCore.SqlServer.dll'
+2021-11-03T16:01:23.6747062+05:30:2021-11-03T16:01:23.6740575+05:30:Assembly resolving Microsoft.EntityFrameworkCore.Relational, Version=5.0.11.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-11-03T16:01:23.6755525+05:30:2021-11-03T16:01:23.6751118+05:30:[AssemblyCache] Trying to resolve 'Microsoft.EntityFrameworkCore.Relational' from .deps.json file
+2021-11-03T16:01:23.6767250+05:30:2021-11-03T16:01:23.6760876+05:30:[AssemblyCache] Resolved 'Microsoft.EntityFrameworkCore.Relational' to 'C:\Users\11035908\.nuget\packages\microsoft.entityframeworkcore.relational\5.0.11\lib\netstandard2.1\Microsoft.EntityFrameworkCore.Relational.dll'
+2021-11-03T16:01:23.7097483+05:30:2021-11-03T16:01:23.7090533+05:30:Assembly resolving Microsoft.Extensions.Logging, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-11-03T16:01:23.7107619+05:30:2021-11-03T16:01:23.7102473+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Logging' from .deps.json file
+2021-11-03T16:01:23.7115963+05:30:2021-11-03T16:01:23.7111603+05:30:[AssemblyCache] Could not resolve 'Microsoft.Extensions.Logging' from .deps.json
+2021-11-03T16:01:23.7124297+05:30:2021-11-03T16:01:23.7119875+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Logging' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0'
+2021-11-03T16:01:23.7133599+05:30:2021-11-03T16:01:23.7128942+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Logging' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\Microsoft.Extensions.Logging.dll'
+2021-11-03T16:01:23.7142390+05:30:2021-11-03T16:01:23.7138938+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Logging' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\Microsoft.Extensions.Logging.exe'
+2021-11-03T16:01:23.7149629+05:30:2021-11-03T16:01:23.7146606+05:30:[AssemblyCache] Could not resolve 'Microsoft.Extensions.Logging' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0'
+2021-11-03T16:01:23.7153968+05:30:2021-11-03T16:01:23.7151069+05:30:TargetFramework: .NETCoreApp,Version=v5.0
+2021-11-03T16:01:23.7159919+05:30:2021-11-03T16:01:23.7156831+05:30:Tfm: netcoreapp5.0
+2021-11-03T16:01:23.7166313+05:30:2021-11-03T16:01:23.7161594+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Logging' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-11-03T16:01:23.7178749+05:30:2021-11-03T16:01:23.7173573+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Logging' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.Extensions.Logging.dll'
+2021-11-03T16:01:23.7189421+05:30:2021-11-03T16:01:23.7183769+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Logging' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.Extensions.Logging.exe'
+2021-11-03T16:01:23.7202367+05:30:2021-11-03T16:01:23.7195795+05:30:[AssemblyCache] Could not resolve 'Microsoft.Extensions.Logging' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-11-03T16:01:23.7211935+05:30:2021-11-03T16:01:23.7206683+05:30:TargetFramework: .NETCoreApp,Version=v5.0
+2021-11-03T16:01:23.7219887+05:30:2021-11-03T16:01:23.7215623+05:30:Tfm: netcoreapp5.0
+2021-11-03T16:01:23.7228404+05:30:2021-11-03T16:01:23.7224014+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Logging' in folder 'C:\Users\11035908\.nuget\packages\Microsoft.Extensions.Logging\5.0.0\lib\netcoreapp5.0'
+2021-11-03T16:01:23.7234432+05:30:2021-11-03T16:01:23.7230116+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Logging' to 'C:\Users\11035908\.nuget\packages\Microsoft.Extensions.Logging\5.0.0\lib\netcoreapp5.0\Microsoft.Extensions.Logging.dll'
+2021-11-03T16:01:23.7246426+05:30:2021-11-03T16:01:23.7240510+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Logging' to 'C:\Users\11035908\.nuget\packages\Microsoft.Extensions.Logging\5.0.0\lib\netcoreapp5.0\Microsoft.Extensions.Logging.exe'
+2021-11-03T16:01:23.7255130+05:30:2021-11-03T16:01:23.7250595+05:30:[AssemblyCache] Could not resolve 'Microsoft.Extensions.Logging' in folder 'C:\Users\11035908\.nuget\packages\Microsoft.Extensions.Logging\5.0.0\lib\netcoreapp5.0'
+2021-11-03T16:01:23.7270341+05:30:2021-11-03T16:01:23.7263670+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Logging' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9'
+2021-11-03T16:01:23.7281501+05:30:2021-11-03T16:01:23.7276713+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Logging' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Logging.dll'
+2021-11-03T16:01:23.7290980+05:30:2021-11-03T16:01:23.7286477+05:30:[AssemblyCache] Found file 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Logging.dll' for assembly 'Microsoft.Extensions.Logging'
+2021-11-03T16:01:23.7312839+05:30:2021-11-03T16:01:23.7308858+05:30:[AssemblyCache] Resolved 'Microsoft.Extensions.Logging' to C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Logging.dll
+2021-11-03T16:01:23.7330213+05:30:2021-11-03T16:01:23.7326810+05:30:Assembly resolving Microsoft.Extensions.Options, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-11-03T16:01:23.7340161+05:30:2021-11-03T16:01:23.7334080+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Options' from .deps.json file
+2021-11-03T16:01:23.7349778+05:30:2021-11-03T16:01:23.7345707+05:30:[AssemblyCache] Could not resolve 'Microsoft.Extensions.Options' from .deps.json
+2021-11-03T16:01:23.7355058+05:30:2021-11-03T16:01:23.7352160+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Options' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0'
+2021-11-03T16:01:23.7359164+05:30:2021-11-03T16:01:23.7357547+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Options' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\Microsoft.Extensions.Options.dll'
+2021-11-03T16:01:23.7366117+05:30:2021-11-03T16:01:23.7362293+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Options' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\Microsoft.Extensions.Options.exe'
+2021-11-03T16:01:23.7379800+05:30:2021-11-03T16:01:23.7372910+05:30:[AssemblyCache] Could not resolve 'Microsoft.Extensions.Options' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0'
+2021-11-03T16:01:23.7386627+05:30:2021-11-03T16:01:23.7382264+05:30:TargetFramework: .NETCoreApp,Version=v5.0
+2021-11-03T16:01:23.7397746+05:30:2021-11-03T16:01:23.7393099+05:30:Tfm: netcoreapp5.0
+2021-11-03T16:01:23.7405970+05:30:2021-11-03T16:01:23.7400677+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Options' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-11-03T16:01:23.7415196+05:30:2021-11-03T16:01:23.7410084+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Options' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.Extensions.Options.dll'
+2021-11-03T16:01:23.7427583+05:30:2021-11-03T16:01:23.7423519+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Options' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.Extensions.Options.exe'
+2021-11-03T16:01:23.7435206+05:30:2021-11-03T16:01:23.7431560+05:30:[AssemblyCache] Could not resolve 'Microsoft.Extensions.Options' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-11-03T16:01:23.7442169+05:30:2021-11-03T16:01:23.7438604+05:30:TargetFramework: .NETCoreApp,Version=v5.0
+2021-11-03T16:01:23.7449700+05:30:2021-11-03T16:01:23.7445979+05:30:Tfm: netcoreapp5.0
+2021-11-03T16:01:23.7456826+05:30:2021-11-03T16:01:23.7452251+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Options' in folder 'C:\Users\11035908\.nuget\packages\Microsoft.Extensions.Options\5.0.0\lib\netcoreapp5.0'
+2021-11-03T16:01:23.7461460+05:30:2021-11-03T16:01:23.7459623+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Options' to 'C:\Users\11035908\.nuget\packages\Microsoft.Extensions.Options\5.0.0\lib\netcoreapp5.0\Microsoft.Extensions.Options.dll'
+2021-11-03T16:01:23.7467025+05:30:2021-11-03T16:01:23.7464071+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Options' to 'C:\Users\11035908\.nuget\packages\Microsoft.Extensions.Options\5.0.0\lib\netcoreapp5.0\Microsoft.Extensions.Options.exe'
+2021-11-03T16:01:23.7472330+05:30:2021-11-03T16:01:23.7470077+05:30:[AssemblyCache] Could not resolve 'Microsoft.Extensions.Options' in folder 'C:\Users\11035908\.nuget\packages\Microsoft.Extensions.Options\5.0.0\lib\netcoreapp5.0'
+2021-11-03T16:01:23.7481843+05:30:2021-11-03T16:01:23.7478936+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Options' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9'
+2021-11-03T16:01:23.7488550+05:30:2021-11-03T16:01:23.7483390+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Options' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Options.dll'
+2021-11-03T16:01:23.7493241+05:30:2021-11-03T16:01:23.7491091+05:30:[AssemblyCache] Found file 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Options.dll' for assembly 'Microsoft.Extensions.Options'
+2021-11-03T16:01:23.7523193+05:30:2021-11-03T16:01:23.7515693+05:30:[AssemblyCache] Resolved 'Microsoft.Extensions.Options' to C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Options.dll
+2021-11-03T16:01:23.7706290+05:30:2021-11-03T16:01:23.7694264+05:30:Assembly resolving Microsoft.Extensions.Caching.Memory, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-11-03T16:01:23.7788600+05:30:2021-11-03T16:01:23.7784958+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Caching.Memory' from .deps.json file
+2021-11-03T16:01:23.7795121+05:30:2021-11-03T16:01:23.7792061+05:30:[AssemblyCache] Could not resolve 'Microsoft.Extensions.Caching.Memory' from .deps.json
+2021-11-03T16:01:23.7799563+05:30:2021-11-03T16:01:23.7797072+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Caching.Memory' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0'
+2021-11-03T16:01:23.7804245+05:30:2021-11-03T16:01:23.7801562+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Caching.Memory' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.dll'
+2021-11-03T16:01:23.7810438+05:30:2021-11-03T16:01:23.7807019+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Caching.Memory' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\Microsoft.Extensions.Caching.Memory.exe'
+2021-11-03T16:01:23.7816471+05:30:2021-11-03T16:01:23.7812990+05:30:[AssemblyCache] Could not resolve 'Microsoft.Extensions.Caching.Memory' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0'
+2021-11-03T16:01:23.7822633+05:30:2021-11-03T16:01:23.7818236+05:30:TargetFramework: .NETCoreApp,Version=v5.0
+2021-11-03T16:01:23.7828063+05:30:2021-11-03T16:01:23.7824457+05:30:Tfm: netcoreapp5.0
+2021-11-03T16:01:23.7838327+05:30:2021-11-03T16:01:23.7831855+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Caching.Memory' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-11-03T16:01:23.7847864+05:30:2021-11-03T16:01:23.7844681+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Caching.Memory' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.Extensions.Caching.Memory.dll'
+2021-11-03T16:01:23.7857812+05:30:2021-11-03T16:01:23.7852300+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Caching.Memory' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.Extensions.Caching.Memory.exe'
+2021-11-03T16:01:23.7865579+05:30:2021-11-03T16:01:23.7861107+05:30:[AssemblyCache] Could not resolve 'Microsoft.Extensions.Caching.Memory' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-11-03T16:01:23.7874122+05:30:2021-11-03T16:01:23.7869961+05:30:TargetFramework: .NETCoreApp,Version=v5.0
+2021-11-03T16:01:23.7883198+05:30:2021-11-03T16:01:23.7877999+05:30:Tfm: netcoreapp5.0
+2021-11-03T16:01:23.7890594+05:30:2021-11-03T16:01:23.7887230+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Caching.Memory' in folder 'C:\Users\11035908\.nuget\packages\Microsoft.Extensions.Caching.Memory\5.0.0\lib\netcoreapp5.0'
+2021-11-03T16:01:23.7897717+05:30:2021-11-03T16:01:23.7892705+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Caching.Memory' to 'C:\Users\11035908\.nuget\packages\Microsoft.Extensions.Caching.Memory\5.0.0\lib\netcoreapp5.0\Microsoft.Extensions.Caching.Memory.dll'
+2021-11-03T16:01:23.7907005+05:30:2021-11-03T16:01:23.7901916+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Caching.Memory' to 'C:\Users\11035908\.nuget\packages\Microsoft.Extensions.Caching.Memory\5.0.0\lib\netcoreapp5.0\Microsoft.Extensions.Caching.Memory.exe'
+2021-11-03T16:01:23.7918275+05:30:2021-11-03T16:01:23.7911831+05:30:[AssemblyCache] Could not resolve 'Microsoft.Extensions.Caching.Memory' in folder 'C:\Users\11035908\.nuget\packages\Microsoft.Extensions.Caching.Memory\5.0.0\lib\netcoreapp5.0'
+2021-11-03T16:01:23.7939225+05:30:2021-11-03T16:01:23.7932763+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Caching.Memory' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9'
+2021-11-03T16:01:23.7945514+05:30:2021-11-03T16:01:23.7942014+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Caching.Memory' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Caching.Memory.dll'
+2021-11-03T16:01:23.7954606+05:30:2021-11-03T16:01:23.7950169+05:30:[AssemblyCache] Found file 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Caching.Memory.dll' for assembly 'Microsoft.Extensions.Caching.Memory'
+2021-11-03T16:01:23.7976383+05:30:2021-11-03T16:01:23.7970952+05:30:[AssemblyCache] Resolved 'Microsoft.Extensions.Caching.Memory' to C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Caching.Memory.dll
+2021-11-03T16:01:23.7992451+05:30:2021-11-03T16:01:23.7984389+05:30:Assembly resolving Microsoft.Extensions.Primitives, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-11-03T16:01:23.8001371+05:30:2021-11-03T16:01:23.7997074+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Primitives' from .deps.json file
+2021-11-03T16:01:23.8010813+05:30:2021-11-03T16:01:23.8006917+05:30:[AssemblyCache] Could not resolve 'Microsoft.Extensions.Primitives' from .deps.json
+2021-11-03T16:01:23.8017315+05:30:2021-11-03T16:01:23.8013939+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Primitives' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0'
+2021-11-03T16:01:23.8023243+05:30:2021-11-03T16:01:23.8019583+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Primitives' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll'
+2021-11-03T16:01:23.8031365+05:30:2021-11-03T16:01:23.8026773+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Primitives' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\Microsoft.Extensions.Primitives.exe'
+2021-11-03T16:01:23.8040976+05:30:2021-11-03T16:01:23.8036079+05:30:[AssemblyCache] Could not resolve 'Microsoft.Extensions.Primitives' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0'
+2021-11-03T16:01:23.8050060+05:30:2021-11-03T16:01:23.8045190+05:30:TargetFramework: .NETCoreApp,Version=v5.0
+2021-11-03T16:01:23.8057970+05:30:2021-11-03T16:01:23.8053962+05:30:Tfm: netcoreapp5.0
+2021-11-03T16:01:23.8065796+05:30:2021-11-03T16:01:23.8060699+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Primitives' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-11-03T16:01:23.8075465+05:30:2021-11-03T16:01:23.8069786+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Primitives' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.Extensions.Primitives.dll'
+2021-11-03T16:01:23.8083383+05:30:2021-11-03T16:01:23.8078369+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Primitives' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.Extensions.Primitives.exe'
+2021-11-03T16:01:23.8092465+05:30:2021-11-03T16:01:23.8086744+05:30:[AssemblyCache] Could not resolve 'Microsoft.Extensions.Primitives' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-11-03T16:01:23.8099591+05:30:2021-11-03T16:01:23.8095217+05:30:TargetFramework: .NETCoreApp,Version=v5.0
+2021-11-03T16:01:23.8108700+05:30:2021-11-03T16:01:23.8104320+05:30:Tfm: netcoreapp5.0
+2021-11-03T16:01:23.8117509+05:30:2021-11-03T16:01:23.8112280+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Primitives' in folder 'C:\Users\11035908\.nuget\packages\Microsoft.Extensions.Primitives\5.0.0\lib\netcoreapp5.0'
+2021-11-03T16:01:23.8183996+05:30:2021-11-03T16:01:23.8119652+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Primitives' to 'C:\Users\11035908\.nuget\packages\Microsoft.Extensions.Primitives\5.0.0\lib\netcoreapp5.0\Microsoft.Extensions.Primitives.dll'
+2021-11-03T16:01:23.8195146+05:30:2021-11-03T16:01:23.8190794+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Primitives' to 'C:\Users\11035908\.nuget\packages\Microsoft.Extensions.Primitives\5.0.0\lib\netcoreapp5.0\Microsoft.Extensions.Primitives.exe'
+2021-11-03T16:01:23.8205658+05:30:2021-11-03T16:01:23.8199963+05:30:[AssemblyCache] Could not resolve 'Microsoft.Extensions.Primitives' in folder 'C:\Users\11035908\.nuget\packages\Microsoft.Extensions.Primitives\5.0.0\lib\netcoreapp5.0'
+2021-11-03T16:01:23.8219575+05:30:2021-11-03T16:01:23.8215285+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Primitives' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9'
+2021-11-03T16:01:23.8228383+05:30:2021-11-03T16:01:23.8223322+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Primitives' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Primitives.dll'
+2021-11-03T16:01:23.8238048+05:30:2021-11-03T16:01:23.8230702+05:30:[AssemblyCache] Found file 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Primitives.dll' for assembly 'Microsoft.Extensions.Primitives'
+2021-11-03T16:01:23.8260631+05:30:2021-11-03T16:01:23.8255100+05:30:[AssemblyCache] Resolved 'Microsoft.Extensions.Primitives' to C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Primitives.dll
+2021-11-03T16:01:24.3235004+05:30:2021-11-03T16:01:24.3227933+05:30:Assembly resolving Microsoft.Extensions.Configuration.Abstractions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-11-03T16:01:24.3244769+05:30:2021-11-03T16:01:24.3239703+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Configuration.Abstractions' from .deps.json file
+2021-11-03T16:01:24.3256005+05:30:2021-11-03T16:01:24.3250168+05:30:[AssemblyCache] Could not resolve 'Microsoft.Extensions.Configuration.Abstractions' from .deps.json
+2021-11-03T16:01:24.3264628+05:30:2021-11-03T16:01:24.3259640+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Configuration.Abstractions' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0'
+2021-11-03T16:01:24.3274661+05:30:2021-11-03T16:01:24.3270151+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Configuration.Abstractions' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll'
+2021-11-03T16:01:24.3285306+05:30:2021-11-03T16:01:24.3280552+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Configuration.Abstractions' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.exe'
+2021-11-03T16:01:24.3294779+05:30:2021-11-03T16:01:24.3290456+05:30:[AssemblyCache] Could not resolve 'Microsoft.Extensions.Configuration.Abstractions' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0'
+2021-11-03T16:01:24.3303929+05:30:2021-11-03T16:01:24.3298553+05:30:TargetFramework: .NETCoreApp,Version=v5.0
+2021-11-03T16:01:24.3314232+05:30:2021-11-03T16:01:24.3308908+05:30:Tfm: netcoreapp5.0
+2021-11-03T16:01:24.3323943+05:30:2021-11-03T16:01:24.3317391+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Configuration.Abstractions' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-11-03T16:01:24.3332995+05:30:2021-11-03T16:01:24.3327875+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Configuration.Abstractions' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.Extensions.Configuration.Abstractions.dll'
+2021-11-03T16:01:24.3346360+05:30:2021-11-03T16:01:24.3341385+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Configuration.Abstractions' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.Extensions.Configuration.Abstractions.exe'
+2021-11-03T16:01:24.3355723+05:30:2021-11-03T16:01:24.3351514+05:30:[AssemblyCache] Could not resolve 'Microsoft.Extensions.Configuration.Abstractions' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-11-03T16:01:24.3365873+05:30:2021-11-03T16:01:24.3359955+05:30:TargetFramework: .NETCoreApp,Version=v5.0
+2021-11-03T16:01:24.3376164+05:30:2021-11-03T16:01:24.3370269+05:30:Tfm: netcoreapp5.0
+2021-11-03T16:01:24.3392102+05:30:2021-11-03T16:01:24.3381959+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Configuration.Abstractions' in folder 'C:\Users\11035908\.nuget\packages\Microsoft.Extensions.Configuration.Abstractions\5.0.0\lib\netcoreapp5.0'
+2021-11-03T16:01:24.3408829+05:30:2021-11-03T16:01:24.3401379+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Configuration.Abstractions' to 'C:\Users\11035908\.nuget\packages\Microsoft.Extensions.Configuration.Abstractions\5.0.0\lib\netcoreapp5.0\Microsoft.Extensions.Configuration.Abstractions.dll'
+2021-11-03T16:01:24.3418129+05:30:2021-11-03T16:01:24.3412897+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Configuration.Abstractions' to 'C:\Users\11035908\.nuget\packages\Microsoft.Extensions.Configuration.Abstractions\5.0.0\lib\netcoreapp5.0\Microsoft.Extensions.Configuration.Abstractions.exe'
+2021-11-03T16:01:24.3428455+05:30:2021-11-03T16:01:24.3424021+05:30:[AssemblyCache] Could not resolve 'Microsoft.Extensions.Configuration.Abstractions' in folder 'C:\Users\11035908\.nuget\packages\Microsoft.Extensions.Configuration.Abstractions\5.0.0\lib\netcoreapp5.0'
+2021-11-03T16:01:24.3442151+05:30:2021-11-03T16:01:24.3437722+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Configuration.Abstractions' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9'
+2021-11-03T16:01:24.3452429+05:30:2021-11-03T16:01:24.3446988+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Configuration.Abstractions' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Configuration.Abstractions.dll'
+2021-11-03T16:01:24.3464807+05:30:2021-11-03T16:01:24.3458314+05:30:[AssemblyCache] Found file 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Configuration.Abstractions.dll' for assembly 'Microsoft.Extensions.Configuration.Abstractions'
+2021-11-03T16:01:24.3486739+05:30:2021-11-03T16:01:24.3479489+05:30:[AssemblyCache] Resolved 'Microsoft.Extensions.Configuration.Abstractions' to C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Extensions.Configuration.Abstractions.dll
+2021-11-03T16:01:24.3960963+05:30:2021-11-03T16:01:24.3954968+05:30:Assembly resolving Microsoft.Data.SqlClient, Version=2.0.20168.4, Culture=neutral, PublicKeyToken=23ec7fc2d6eaa4a5
+2021-11-03T16:01:24.3974560+05:30:2021-11-03T16:01:24.3968266+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Data.SqlClient' from .deps.json file
+2021-11-03T16:01:24.3987377+05:30:2021-11-03T16:01:24.3981323+05:30:[AssemblyCache] Resolved 'Microsoft.Data.SqlClient' to 'C:\Users\11035908\.nuget\packages\microsoft.data.sqlclient\2.0.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll'
+2021-11-03T16:01:24.6341742+05:30:2021-11-03T16:01:24.6329214+05:30:Assembly resolving Microsoft.Data.SqlClient, Culture=neutral, PublicKeyToken=null
+2021-11-03T16:01:24.6364180+05:30:2021-11-03T16:01:24.6353113+05:30:Assembly resolving Microsoft.Data.SqlClient.resources, Version=2.0.20168.4, Culture=en-US, PublicKeyToken=23ec7fc2d6eaa4a5
+2021-11-03T16:01:24.6372685+05:30:2021-11-03T16:01:24.6369509+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Data.SqlClient.resources' from .deps.json file
+2021-11-03T16:01:24.6385467+05:30:2021-11-03T16:01:24.6378911+05:30:[AssemblyCache] Could not resolve 'Microsoft.Data.SqlClient.resources' from .deps.json
+2021-11-03T16:01:24.6398530+05:30:2021-11-03T16:01:24.6393986+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Data.SqlClient.resources' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0'
+2021-11-03T16:01:24.6410219+05:30:2021-11-03T16:01:24.6403114+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Data.SqlClient.resources' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\Microsoft.Data.SqlClient.resources.dll'
+2021-11-03T16:01:24.6419493+05:30:2021-11-03T16:01:24.6415541+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Data.SqlClient.resources' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\Microsoft.Data.SqlClient.resources.exe'
+2021-11-03T16:01:24.6427986+05:30:2021-11-03T16:01:24.6423518+05:30:[AssemblyCache] Could not resolve 'Microsoft.Data.SqlClient.resources' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0'
+2021-11-03T16:01:24.6436446+05:30:2021-11-03T16:01:24.6431923+05:30:TargetFramework: .NETCoreApp,Version=v5.0
+2021-11-03T16:01:24.6443801+05:30:2021-11-03T16:01:24.6440824+05:30:Tfm: netcoreapp5.0
+2021-11-03T16:01:24.6452656+05:30:2021-11-03T16:01:24.6447915+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Data.SqlClient.resources' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-11-03T16:01:24.6464016+05:30:2021-11-03T16:01:24.6458852+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Data.SqlClient.resources' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.Data.SqlClient.resources.dll'
+2021-11-03T16:01:24.6476468+05:30:2021-11-03T16:01:24.6470584+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Data.SqlClient.resources' to 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.Data.SqlClient.resources.exe'
+2021-11-03T16:01:24.6488506+05:30:2021-11-03T16:01:24.6483210+05:30:[AssemblyCache] Could not resolve 'Microsoft.Data.SqlClient.resources' in folder 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\JoePizzaPortalSpecFlow\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-11-03T16:01:24.6510107+05:30:2021-11-03T16:01:24.6499888+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Data.SqlClient.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9'
+2021-11-03T16:01:24.6522392+05:30:2021-11-03T16:01:24.6515178+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Data.SqlClient.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Data.SqlClient.resources.dll'
+2021-11-03T16:01:24.6537782+05:30:2021-11-03T16:01:24.6530284+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Data.SqlClient.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.Data.SqlClient.resources.exe'
+2021-11-03T16:01:24.6546970+05:30:2021-11-03T16:01:24.6543604+05:30:[AssemblyCache] Could not resolve 'Microsoft.Data.SqlClient.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9'
+2021-11-03T16:01:24.6559522+05:30:2021-11-03T16:01:24.6555161+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Data.SqlClient.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9'
+2021-11-03T16:01:24.6571129+05:30:2021-11-03T16:01:24.6565610+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Data.SqlClient.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\Microsoft.Data.SqlClient.resources.dll'
+2021-11-03T16:01:24.6583656+05:30:2021-11-03T16:01:24.6577648+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Data.SqlClient.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\Microsoft.Data.SqlClient.resources.exe'
+2021-11-03T16:01:24.6594848+05:30:2021-11-03T16:01:24.6588794+05:30:[AssemblyCache] Could not resolve 'Microsoft.Data.SqlClient.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9'
+2021-11-03T16:01:24.6607724+05:30:2021-11-03T16:01:24.6602788+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Data.SqlClient.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.9'
+2021-11-03T16:01:24.6616307+05:30:2021-11-03T16:01:24.6612524+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Data.SqlClient.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.9\Microsoft.Data.SqlClient.resources.dll'
+2021-11-03T16:01:24.6628239+05:30:2021-11-03T16:01:24.6623032+05:30:[AssemblyCache] Trying to resolve 'Microsoft.Data.SqlClient.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.9\Microsoft.Data.SqlClient.resources.exe'
+2021-11-03T16:01:24.6637916+05:30:2021-11-03T16:01:24.6631993+05:30:[AssemblyCache] Could not resolve 'Microsoft.Data.SqlClient.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.9'
+2021-11-03T16:01:24.6707927+05:30:2021-11-03T16:01:24.6701099+05:30:Assembly resolving Microsoft.Data.SqlClient, Culture=neutral, PublicKeyToken=null
+2021-11-03T16:01:24.6720707+05:30:2021-11-03T16:01:24.6715189+05:30:Assembly resolving Microsoft.Data.SqlClient.resources, Version=2.0.20168.4, Culture=en, PublicKeyToken=23ec7fc2d6eaa4a5
+2021-11-03T16:01:24.6744005+05:30:2021-11-03T16:01:24.6738959+05:30:Assembly resolving Microsoft.Data.SqlClient, Culture=neutral, PublicKeyToken=null
+2021-11-03T16:01:24.6752159+05:30:2021-11-03T16:01:24.6747279+05:30:Assembly resolving Microsoft.Data.SqlClient.resources, Version=2.0.20168.4, Culture=en-US, PublicKeyToken=23ec7fc2d6eaa4a5
+2021-11-03T16:01:24.6764928+05:30:2021-11-03T16:01:24.6761368+05:30:Assembly resolving Microsoft.Data.SqlClient, Culture=neutral, PublicKeyToken=null
+2021-11-03T16:01:24.6776809+05:30:2021-11-03T16:01:24.6772248+05:30:Assembly resolving Microsoft.Data.SqlClient.resources, Version=2.0.20168.4, Culture=en, PublicKeyToken=23ec7fc2d6eaa4a5
+2021-11-03T16:01:24.7064071+05:30:2021-11-03T16:01:24.7055386+05:30:Assembly resolving System.Configuration.ConfigurationManager, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+2021-11-03T16:01:24.7074495+05:30:2021-11-03T16:01:24.7069587+05:30:[AssemblyCache] Trying to resolve 'System.Configuration.ConfigurationManager' from .deps.json file
+2021-11-03T16:01:24.7086248+05:30:2021-11-03T16:01:24.7082041+05:30:[AssemblyCache] Resolved 'System.Configuration.ConfigurationManager' to 'C:\Users\11035908\.nuget\packages\system.configuration.configurationmanager\4.7.0\lib\netstandard2.0\System.Configuration.ConfigurationManager.dll'
+2021-11-03T16:01:24.9633264+05:30:2021-11-03T16:01:24.9625287+05:30:Thread#0:T:done: ConfirmfeatureSteps.ThenOrderQuantityShouldBe(2) (1.3s)
+2021-11-03T16:01:24.9643560+05:30:2021-11-03T16:01:24.9640385+05:30:Thread#0:B:Then the card number should be 256798907865
+2021-11-03T16:01:24.9700598+05:30:2021-11-03T16:01:24.9690671+05:30:Thread#0:T:done: ConfirmfeatureSteps.ThenTheCardNumberShouldBe("256798907865") (0.0s)
+2021-11-03T16:01:24.9711460+05:30:2021-11-03T16:01:24.9707265+05:30:Thread#0:B:Then the shipping adress should be 1st Cross, HM Marg, New Delhi
+2021-11-03T16:01:24.9730731+05:30:2021-11-03T16:01:24.9725338+05:30:Thread#0:T:done: ConfirmfeatureSteps.ThenTheShippingAdressShouldBeStCrossHMMargNewDelhi(1) (0.0s)
+2021-11-03T16:01:24.9742268+05:30:2021-11-03T16:01:24.9737259+05:30:Thread#0:B:Then the Pizza Id should be 4
+2021-11-03T16:01:24.9763786+05:30:2021-11-03T16:01:24.9754976+05:30:Thread#0:T:done: ConfirmfeatureSteps.ThenThePizzaIdShouldBe(4) (0.0s)
+2021-11-03T16:01:24.9777322+05:30:2021-11-03T16:01:24.9770805+05:30:Thread#0:B:Then the Pizza Type should be Veg
+2021-11-03T16:01:24.9798960+05:30:2021-11-03T16:01:24.9794669+05:30:Thread#0:T:done: ConfirmfeatureSteps.ThenThePizzaTypeShouldBeVeg() (0.0s)
+2021-11-03T16:01:24.9953226+05:30:Thread#0:Scheduler: get next test for thread 0
+2021-11-03T16:01:24.9953488+05:30:Thread#:Scheduler: at the end of normal test queue
+2021-11-03T16:01:24.9953498+05:30:Thread#0:Scheduler: enumerator for thread is at end
+2021-11-03T16:01:24.9953509+05:30:Thread#0:Scheduler: No more tests for thread
+2021-11-03T16:01:25.0404613+05:30:Thread#0: Test #8/0 is finished on thread #0 as Succeeded within 1.625244 seconds
+2021-11-03T16:01:25.0511352+05:30:2021-11-03T16:01:25.0508505+05:30:Got Deinitialize Signal
+2021-11-03T16:01:25.0541105+05:30:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2021-11-03T16:01:25.0559918+05:30:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2021-11-03T16:01:25.0561653+05:30:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2021-11-03T16:01:25.0618615+05:30:Thread#-1:Scheduler: get next test for thread -1
+2021-11-03T16:01:25.0618704+05:30:Thread#:Scheduler: at the end of normal test queue
+2021-11-03T16:01:25.0618713+05:30:Thread#-1:Scheduler: enumerator for thread is at end
+2021-11-03T16:01:25.0633595+05:30;Thread#12;Info;test run finished
+2021-11-03T16:01:25.0635465+05:30;Thread#12;Info;publishing test results
+2021-11-03T16:01:25.0636754+05:30;Thread#12;Info;Not publishing results.
+2021-11-03T16:01:25.0637220+05:30;Thread#12;Info;test results published
+2021-11-03T16:01:25.0637475+05:30;Thread#12;Info;generating reports
+2021-11-03T16:01:25.1088069+05:30;Thread#12;Info;Starting external report generation process
+2021-11-03T16:01:26.2351482+05:30;Thread#12;Info;Successfully generated reports.
+2021-11-03T16:01:26.2369341+05:30;Thread#12;Info;Successfully generated reports
+2021-11-03T16:01:26.2420960+05:30:Total: 1
+2021-11-03T16:01:26.2436596+05:30:Succeeded: 1
+2021-11-03T16:01:26.2439069+05:30:Ignored: 0
+2021-11-03T16:01:26.2442042+05:30:Pending: 0
+2021-11-03T16:01:26.2442083+05:30:Skipped: 0
+2021-11-03T16:01:26.2443294+05:30:Failed: 0
+2021-11-03T16:01:26.2508504+05:30;VSTestExecutionThread;Info;Adding attachments to VSTest
+2021-11-03T16:01:26.2509060+05:30;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\11035908\source\PhaseFour\Project\JoePizzaPortal\TestResults\Unnamed project__2021-11-03T160121.html'
+========== End of log file ==========

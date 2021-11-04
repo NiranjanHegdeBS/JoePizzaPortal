@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3B2G/M+UXlfZc0xG8NXQzU59wS1uvDK5ds6Fl3IEFs1tML9c8PdMmRTAOZP3oFBXrFKhY2Zv+4QcL7MxRK5qXg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\11035908\\source\\PhaseFour\\Project\\JoePizzaPortal\\JoePizzaPortalSeleniumTest\\JoePizzaPortalSeleniumTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\11035908\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\11035908\\.nuget\\packages\\selenium.webdriver\\4.0.1\\selenium.webdriver.4.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
