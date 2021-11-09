@@ -20,5 +20,10 @@ namespace JoePizzaPortal.Controllers
             var pizzas = _context.Pizzas.ToList();
             return View(pizzas);
         }
+
+        public int PizzaCount()
+        {
+           return _context.Pizzas.ToList().Count();
+        }
     }
 }

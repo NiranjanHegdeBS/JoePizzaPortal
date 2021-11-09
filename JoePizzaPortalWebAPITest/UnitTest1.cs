@@ -77,5 +77,20 @@ namespace JoePizzaPortalWebAPITest
             Assert.AreEqual(PizzaName,resultAction.PizzaName);
 
         }
+
+        //Test the count of pizzas
+        [Test]
+        public void PizzaCountTest()
+        {
+            //Assign
+            int count = 3;
+
+            //Action
+            PizzaController pizzaController = new PizzaController(context);
+            var resultCount = pizzaController.PizzaCount();
+
+            //Assert
+            Assert.AreEqual(count, resultCount);
+        }
     }
 }
